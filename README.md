@@ -1,15 +1,13 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdueGlua25ncHJwZTg3YXI1dHoya3Myd3NmMWp3OTljd3Y2ZWMydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif)
-<h1 align="center">Hello world 👋, I'm Vivien Quach.</h1>
-<h3 align="center">A self-taught iOS developer from Chicago.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img width="1834" alt="README Banner" src="https://github.com/penguin-waddle/penguin-waddle/assets/123434744/47c034ec-e6b7-47fb-8b25-1a79c2a6d255">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
 
-- 🔭 I’m currently working on [Bookmarked!](https://github.com/penguin-waddle/Bookmarked)
+- 🔭 I’m currently working on [Bookmarked!](https://github.com/penguin-waddle/Bookmarked) - a unique iOS app designed for book enthusiasts. It allows users to search, review, and keep track of their favorite books, leveraging the Google Books API and Firebase for a comprehensive user experience.
 
-- 🌱 I’m currently enhancing **my skills in iOS development, focusing on SwiftUI and Firebase integration.**
+- 🌱 My journey in iOS development began with exploring Swift Playgrounds, then completing the [100 Days of SwiftUI course.](https://www.hackingwithswift.com/100/swiftui) This solid foundation led me to take on the challenge of building 'Bookmarked' from scratch, where I'm honing my skills in SwiftUI and Firebase integration.
 
-- 📫 Reach me at **vivienwuquach@gmail.com**
+- 📫 Feel free to reach out to me at **vivienwuquach@gmail.com** for any collaborations, feedback, or just a chat about technology and books!
 
-- ⚡ Fun fact: **My passion for reading led me to develop 'Bookmarked', merging my love for books with technology.**
+- ⚡ Fun fact: My passion for reading sparked my interest in technology, inspiring me to merge these two worlds through 'Bookmarked'. It's a testament to how personal interests can lead to meaningful tech projects!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
