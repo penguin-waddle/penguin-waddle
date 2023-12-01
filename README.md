@@ -1,4 +1,7 @@
-<img width="1834" alt="README Banner" src="https://github.com/penguin-waddle/penguin-waddle/assets/123434744/0dd96716-2f70-484e-9e54-e8861812d33d">
+<img width="1834" alt="README Banner" src="https://github.com/penguin-waddle/penguin-waddle/assets/123434744/983b5ed3-8387-4ad4-8573-0dc34c0ce377">
+
+<h1 align="center">   </h1>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
 
 - 🔭 I’m currently working on [Bookmarked!](https://github.com/penguin-waddle/Bookmarked) - a unique iOS app designed for book enthusiasts. It allows users to search, review, and keep track of their favorite books, leveraging the Google Books API and Firebase for a comprehensive user experience.
