@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Bookmarked!](https://github.com/penguin-waddle/Bookmarked) - a unique iOS app designed for book enthusiasts. It allows users to search, review, and keep track of their favorite books, leveraging the Google Books API and Firebase for a comprehensive user experience.
 
-- 🌱 My journey in iOS development began with exploring Swift Playgrounds, then completing the [100 Days of SwiftUI course.](https://www.hackingwithswift.com/100/swiftui) This solid foundation led me to take on the challenge of building 'Bookmarked' from scratch, where I'm honing my skills in SwiftUI and Firebase integration.
+- 🌱 My journey in iOS development began with exploring Swift Playgrounds, then completing the [100 Days of SwiftUI course.](https://github.com/penguin-waddle/100-Days-of-SwiftUI) This solid foundation led me to take on the challenge of building 'Bookmarked' from scratch, where I'm honing my skills in SwiftUI and Firebase integration.
 
 - 📫 Feel free to reach out to me at **vivienwuquach@gmail.com** for any collaborations, feedback, or just a chat about technology and books!
 
